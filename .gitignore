@@ -1,0 +1,16 @@
+# IDE Files (IntelliJ, VS Code, etc.)
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Java Build Artifacts
+*.class
+*.jar
+*.war
+target/
+
+# OS-related files
+.DS_Store
+Thumbs.db
